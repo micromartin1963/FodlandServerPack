@@ -1,0 +1,13 @@
+
+TODO's
+
+onexit  to do something ?
+ 
+Add more sounds
+
+check if somethings in the way for spawn object
+
+
+
+
+
